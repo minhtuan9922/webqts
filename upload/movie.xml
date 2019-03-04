@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Title>
+	<LocalTitle>Jurassic World: Fallen Kingdom</LocalTitle>
+	<OriginalTitle>Jurassic World: Fallen Kingdom</OriginalTitle>
+	<ProductionYear>2018</ProductionYear>
+	<Added>9/8/2018 1:14:37 PM</Added>
+	<IMDBrating>0.0</IMDBrating>
+	<ContentRating>PG-13</ContentRating>
+	<MPAARating>PG-13</MPAARating>
+	<IMDB>tt4881806</IMDB>
+	<IMDbId>tt4881806</IMDbId>
+	<TMDbId>351286</TMDbId>
+	<Budget>170000000</Budget>
+	<Revenue>1290354745</Revenue>
+	<Language>English</Language>
+	<LanguageCode>en</LanguageCode>
+	<Country>US</Country>
+	<RunningTime>129</RunningTime>
+	<Overview>Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.</Overview>
+	<Genres>
+		<Genre>Action</Genre>
+		<Genre>Adventure</Genre>
+		<Genre>Sci-Fi</Genre>
+	</Genres>
+	<Studios>
+		<Studio>Amblin Entertainment</Studio>
+		<Studio>Apaches Entertainment</Studio>
+		<Studio>Legendary Entertainment</Studio>
+		<Studio>Universal Pictures</Studio>
+		<Studio>Perfect World Pictures</Studio>
+		<Studio>The Kennedy/Marshall Company</Studio>
+	</Studios>
+	<Persons>
+		<Person>
+			<Name>Chris Pratt</Name>
+			<Type>Actor</Type>
+			<Role>Owen Grady</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/gXKyT1YU5RWWPaE1je3ht58eUZr.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Bryce Dallas Howard</Name>
+			<Type>Actor</Type>
+			<Role>Claire Dearing</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/7HIHalGGoJd101Wt3Y78Znfiohj.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Rafe Spall</Name>
+			<Type>Actor</Type>
+			<Role>Eli Mills</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/7ucsDEWvcMU4SpxtZEaYErPpXHh.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Justice Smith</Name>
+			<Type>Actor</Type>
+			<Role>Franklin Webb</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/9G8pKfvfbqs5fmRo0VtlHqxdVBQ.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Daniella Pineda</Name>
+			<Type>Actor</Type>
+			<Role>Zia Rodriguez</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/AdmgjO8pLFqN1H40uo7Ws4h6IyK.jpg</Image>
+		</Person>
+		<Person>
+			<Name>James Cromwell</Name>
+			<Type>Actor</Type>
+			<Role>Benjamin Lockwood</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/f9HU6zS2K2DCRt2WoJBK61ElqPJ.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Toby Jones</Name>
+			<Type>Actor</Type>
+			<Role>Mr. Eversoll</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/eOZe7EZ0Ojq8PaIn1HLVex5dZwc.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Ted Levine</Name>
+			<Type>Actor</Type>
+			<Role>Ken Wheatley</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/7O3vgqgicfNeGr3leC0qB074fjX.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Jeff Goldblum</Name>
+			<Type>Actor</Type>
+			<Role>Ian Malcolm</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg</Image>
+		</Person>
+		<Person>
+			<Name>BD Wong</Name>
+			<Type>Actor</Type>
+			<Role>Dr. Wu</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Geraldine Chaplin</Name>
+			<Type>Actor</Type>
+			<Role>Iris</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/mnPoiJrhJjJArySW8wMpf84pCxu.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Isabella Sermon</Name>
+			<Type>Actor</Type>
+			<Role>Maisie Lockwood</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/17lNC9C1mNuP0o5AJamwTJ9oaD5.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Peter Jason</Name>
+			<Type>Actor</Type>
+			<Role>Senator Sherwood</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/2VqCiv4R0kZW1Nwi60fIzmHKxpc.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Charlie Rawes</Name>
+			<Type>Actor</Type>
+			<Role>Lead Mercenary</Role>
+			<Image />
+		</Person>
+		<Person>
+			<Name>Kevin Layne</Name>
+			<Type>Actor</Type>
+			<Role>Sub Pilot</Role>
+			<Image />
+		</Person>
+		<Person>
+			<Name>Robert Emms</Name>
+			<Type>Actor</Type>
+			<Role>Tech Merc</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/4wdONknsZLWHpH2NSyk0FyPPO8A.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Michael Papajohn</Name>
+			<Type>Actor</Type>
+			<Role>InGen Contractor (uncredited)</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/9nVHCoYxCpGh9pO00xp7SybWd7b.jpg</Image>
+		</Person>
+		<Person>
+			<Name>Daniel Stisen</Name>
+			<Type>Actor</Type>
+			<Role>Russian Bodyguard (uncredited)</Role>
+			<Image>https://image.tmdb.org/t/p/w300_and_h450_bestv2/jhyIFfBnM5nLhHdpFiGIW6qk9x5.jpg</Image>
+		</Person>
+	</Persons>
+	<Awards></Awards>
+	<BackdropURL>http://image.tmdb.org/t/p/original/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg</BackdropURL>
+	<Director>J. A. Bayona</Director>
+	<FullCertifications></FullCertifications>
+	<FormalMPAA></FormalMPAA>
+	<Votes>125064</Votes>
+	<Synopsis>Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.</Synopsis>
+	<Plot>Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.</Plot>
+	<Outline>Three years after the Jurassic World theme park was closed down, Owen and Claire return to Isla Nublar to save the dinosaurs when they learn that a once dormant volcano on the island is active and is threatening to extinguish all life there. Along the way, Owen sets out to find Blue, his lead raptor, and discovers a conspiracy that could disrupt the natural order of the entire planet. Life has found a way, again.</Outline>
+	<ShortDescription>Three years after the Jurassic World theme park was closed down, Owen and Claire return to Isla Nublar to save the dinosaurs when they learn that a once dormant volcano on the island is active and is threatening to extinguish all life there. Along the way, Owen sets out to find Blue, his lead raptor, and discovers a conspiracy that could disrupt the natural order of the entire planet. Life has found a way, again.</ShortDescription>
+	<PosterURL>http://image.tmdb.org/t/p/original/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg</PosterURL>
+	<Tagline>The park is gone</Tagline>
+	<Taglines>
+		<Tagline>The park is gone</Tagline>
+	</Taglines>
+	<Top250></Top250>
+	<TrailerURL>http://www.youtube.com/watch?v=vn9mMeWcgoM</TrailerURL>
+	<Website>http://www.jurassicworld.com</Website>
+	<ReleaseDate>2018-06-06</ReleaseDate>
+	<WritersList>Derek Connolly|Colin Trevorrow|Michael Crichton</WritersList>
+	<Popularity>163.502</Popularity>
+	<VoteCount>3034</VoteCount>
+	<TMDbCollectionId>328</TMDbCollectionId>
+	<CollectionNumber>328</CollectionNumber>
+	<CollectionName>Jurassic Park</CollectionName>
+	<Tags>
+		<Tag>tyrannosaurus rex</Tag>
+		<Tag>volcano</Tag>
+		<Tag>sequel</Tag>
+		<Tag>rescue mission</Tag>
+		<Tag>wild animal</Tag>
+		<Tag>dinosaur</Tag>
+		<Tag>genetic engineering</Tag>
+		<Tag>prehistoric creature</Tag>
+		<Tag>aftercreditsstinger</Tag>
+		<Tag>monster island</Tag>
+	</Tags>
+	<SimilarMovies>
+		<SimilarMovie>Journey to the Center of the Earth</SimilarMovie>
+		<SimilarMovie>Jurassic Park</SimilarMovie>
+		<SimilarMovie>Ice Age</SimilarMovie>
+		<SimilarMovie>Jurassic World</SimilarMovie>
+		<SimilarMovie>Dinosaur</SimilarMovie>
+		<SimilarMovie>The Good Dinosaur</SimilarMovie>
+		<SimilarMovie>The Land Before Time</SimilarMovie>
+		<SimilarMovie>Journey to the Center of the Earth</SimilarMovie>
+		<SimilarMovie>Journey to the Center of the Earth</SimilarMovie>
+		<SimilarMovie>We're Back! A Dinosaur's Story</SimilarMovie>
+		<SimilarMovie>Age of Dinosaurs</SimilarMovie>
+		<SimilarMovie>One Million Years B.C.</SimilarMovie>
+		<SimilarMovie>The People That Time Forgot</SimilarMovie>
+		<SimilarMovie>The Lost World</SimilarMovie>
+		<SimilarMovie>Minions: Cro Minion</SimilarMovie>
+		<SimilarMovie>Dinosaur 13</SimilarMovie>
+	</SimilarMovies>
+	<OtherID_RottenTomatoes></OtherID_RottenTomatoes>
+	<RottenTomatoesId></RottenTomatoesId>
+	<CriticRating></CriticRating>
+	<CriticRatingSummary></CriticRatingSummary>
+	<IMDB_ID>tt4881806</IMDB_ID>
+	<TMDB>351286</TMDB>
+	<TMDB_ID>351286</TMDB_ID>
+	<Rating>0.0</Rating>
+	<certification>PG-13</certification>
+	<Trailer>http://www.youtube.com/watch?v=vn9mMeWcgoM</Trailer>
+	<Runtime>129</Runtime>
+	<Description>Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.</Description>
+	<PremiereDate>2018-06-06</PremiereDate>
+	<VideoAspect>2.35:1</VideoAspect>
+	<VideoBitrate>4588000</VideoBitrate>
+	<VideoCodec>x264</VideoCodec>
+	<VideoCodecType>H.264</VideoCodecType>
+	<VideoCodecRaw>AVC</VideoCodecRaw>
+	<VideoFileSize>6484948073</VideoFileSize>
+	<VideoHeight>536</VideoHeight>
+	<VideoLength>128</VideoLength>
+	<VideoLengthSeconds>7698</VideoLengthSeconds>
+	<VideoQuality>Great (720p HD)</VideoQuality>
+	<VideoWidth>1280</VideoWidth>
+	<AudioBitrate>1536000</AudioBitrate>
+	<AudioChannels>5.1</AudioChannels>
+	<AudioCodec>DTS</AudioCodec>
+	<AudioCodecRaw>DTS Coherent Acoustics</AudioCodecRaw>
+	<AudioFrequency>48000</AudioFrequency>
+	<AspectRatio>2.39:1</AspectRatio>
+	<MediaInfo>
+		<Video>
+			<Codec>x264</Codec>
+			<FFCodec>H.264</FFCodec>
+			<BitRate>4588000</BitRate>
+			<Height>536</Height>
+			<Width>1280</Width>
+			<FrameRate>23.976</FrameRate>
+			<Duration>128</Duration>
+			<DurationSeconds>7698</DurationSeconds>
+			<ScanType>Progressive</ScanType>
+		</Video>
+		<Audio>
+			<Codec>DTS</Codec>
+			<FFCodec>DTS</FFCodec>
+			<Channels>6</Channels>
+			<BitRate>1536000</BitRate>
+			<Language>eng</Language>
+		</Audio>
+	</MediaInfo>
+	<VideoHasSubtitles>True</VideoHasSubtitles>
+	<Type></Type>
+</Title>
